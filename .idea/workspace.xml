@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ebf66cd-383e-42f0-8c5b-2b8d6e46a48c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\workspace\softwareinstall\mavenrepository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../softwareinstall/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\workspace\softwareinstall\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YsjxWplJjyZfFjNSOEXXzXlrXR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="observerpattern" />
+      <recent name="templatepattern" />
+      <recent name="strategypattern" />
+      <recent name="bridgeparttern" />
+      <recent name="proxypattern.cglibproxy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="iteratorpattern.Main" />
+      <module name="Design pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="iteratorpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bridgeparttern.Main" />
+      <module name="Design pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bridgeparttern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="compositepattern.Main" />
+      <module name="Design pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="compositepattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategypattern.Main" />
+      <module name="Design pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategypattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="observerpattern.Main" />
+      <module name="Design pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observerpattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ebf66cd-383e-42f0-8c5b-2b8d6e46a48c" name="Default Changelist" comment="" />
+      <created>1583738442579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583738442579</updated>
+      <workItem from="1583738445547" duration="10466000" />
+      <workItem from="1583913728895" duration="2293000" />
+      <workItem from="1583918636910" duration="212000" />
+      <workItem from="1583919060100" duration="2828000" />
+      <workItem from="1583922342712" duration="3111000" />
+      <workItem from="1584065554257" duration="1318000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="591" y="198" key="#Project_Structure" timestamp="1583919295284">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="591" y="198" key="#Project_Structure/78.0.1842.1080@78.0.1842.1080" timestamp="1583919295284" />
+    <state x="804" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1583924689870">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="804" y="249" key="#com.intellij.ide.util.MemberChooser/78.0.1842.1080@78.0.1842.1080" timestamp="1583924689870" />
+    <state x="679" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583919096125">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="679" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1583919096125" />
+    <state x="479" y="114" key="SettingsEditor" timestamp="1583922323485">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="479" y="114" key="SettingsEditor/78.0.1842.1080@78.0.1842.1080" timestamp="1583922323485" />
+    <state x="679" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1584065553829">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="679" y="364" key="com.intellij.ide.util.TipDialog/78.0.1842.1080@78.0.1842.1080" timestamp="1584065553826" />
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1583925128059">
+      <screen x="78" y="0" width="1842" height="1080" />
+    </state>
+    <state x="662" y="235" width="672" height="678" key="search.everywhere.popup/78.0.1842.1080@78.0.1842.1080" timestamp="1583925128059" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/observerpattern/Pet.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
